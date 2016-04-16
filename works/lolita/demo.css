@@ -1,0 +1,144 @@
+/* Demo CSS - You do not need this css in your own slider */
+
+body{
+	font-family: "Open Sans", helvetica, arial;
+}
+
+pre{
+	font-family: "Source Code Pro", monospace;
+	display: block;
+	padding: 9.5px;
+	margin: 0 0 10px;
+	font-size: 13px;
+	line-height: 20px;
+	word-break: break-all;
+	word-wrap: break-word;
+	white-space: pre;
+	white-space: pre-wrap;
+	background-color: whiteSmoke;
+	border: 1px solid #CCC;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+pre + h2{
+	margin-top: 80px;
+}
+
+#container{
+	max-width:620px;
+	margin:0 auto;
+	padding-bottom:80px;
+}
+
+#banner-fade,
+#banner-slide{
+	margin-bottom: 60px;
+}
+
+ul.bjqs-controls.v-centered li a{
+	display:block;
+	padding:10px;
+	background :#fff;
+	color:#000;
+	text-decoration: none;
+}
+
+ul.bjqs-controls.v-centered li a:hover{
+	background:#000;
+	color:#fff;
+}
+
+ul.bjqs{
+	height:350px;
+}
+/*ul.bjqs-controls{
+	margin-top:-20px;
+}
+*/
+ol.bjqs-markers li a{
+/*	padding:5px 10px;*/
+	color:#fff;
+/*	margin:5px;*/
+	text-decoration: none;
+	width:75px;
+	height:99px;
+
+}
+
+ol.bjqs-markers li.active-marker a,
+ol.bjqs-markers li a:hover{
+}
+
+
+p.bjqs-caption{
+	background: rgba(255,255,255,0.5);
+}
+
+.obj1 {
+	background-image: url(img/onepiece-s/12.jpg);
+	background-size: 75px 99px;
+	float: left;
+}
+
+.obj2 {
+	background-image: url(img/onepiece-s/2.jpg);
+	background-size: 75px 99px;
+}
+
+.obj3 {
+	background-image: url(img/onepiece-s/3.jpg);
+	background-size: 75px 99px;
+}
+
+.obj4 {
+	background-image: url(img/onepiece-s/4.jpg);
+	background-size: 75px 99px;
+}
+
+.obj5 {
+	background-image: url(img/onepiece-s/5.jpg);
+	background-size: 75px 99px;
+}
+.obj6 {
+	background-image: url(img/onepiece-s/6.jpg);
+	background-size: 75px 99px;
+}
+.obj7 {
+	background-image: url(img/onepiece-s/7.jpg);
+	background-size: 75px 99px;
+}
+.obj8 {
+	background-image: url(img/onepiece-s/8.jpg);
+	background-size: 75px 99px;
+}
+.obj9 {
+	background-image: url(img/onepiece-s/9.jpg);
+	background-size: 75px 99px;
+}
+.obj10 {
+	background-image: url(img/onepiece-s/10.jpg);
+	background-size: 75px 99px;
+}
+.obj11 {
+	float: left;
+	background-image: url(img/onepiece-s/11.jpg);
+	background-size: 75px 99px;
+}
+.obj12 {
+	float: left;
+	background-image: url(img/onepiece-s/1.jpg);
+	background-size: 75px 99px;
+}
+.obj13 {
+	float: left;
+	background-image: url(img/onepiece-s/13.jpg);
+	background-size: 75px 99px;
+}
+.obj14 {
+	float: left;
+	background-image: url(img/onepiece-s/14.jpg);
+	background-size: 75px 99px;
+}
+

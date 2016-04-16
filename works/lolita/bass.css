@@ -1,0 +1,716 @@
+* {
+	margin: 0 ;
+	padding: 0 ;
+
+}
+
+
+a:focus{outline:none;}
+
+li a {
+color:#000;
+text-decoration:none;
+}
+li a:hover{
+background-color:#fff;
+color:#000;
+
+}
+
+body {
+}
+
+h1 {
+	font-size: 16px;
+
+}
+
+table {
+margin-left: 10px;
+}
+
+
+.headfoot {
+	height: 124px;
+	width: 100%;
+	background-color: #ffc0cb;
+	margin: 0 auto;
+
+}
+
+.gro {
+	float: left;
+	height: 100px;
+	width: 240px;
+}
+.gro a {
+	height: 100px;
+	width: 240px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.gro a:link {
+	background-image: url(img/title.png);
+}
+.gro a:hover {
+	background-image: url(img/title.png);
+
+}
+
+.gro2 {
+	float: left;
+	height: 100px;
+	width: 139px;
+}
+.gro2 a {
+	height: 100px;
+	width: 139px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.gro2 a:link {
+	background-image: url(img/g2.png);
+}
+.gro2 a:hover {
+	background-image: url(img/gg2.png);
+
+}
+
+.gro3 a {
+	height: 100px;
+	width: 139px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.gro3 a:link {
+	background-image: url(img/g3.png);
+}
+.gro3 a:hover {
+	background-image: url(img/gg3.png);
+
+}
+
+.gro4 a {
+	height: 100px;
+	width: 139px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.gro4 a:link {
+	background-image: url(img/g4.png);
+}
+.gro4 a:hover {
+	background-image: url(img/gg4.png);
+
+}
+
+.gro5 a {
+	height: 100px;
+	width: 139px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.gro5 a:link {
+	background-image: url(img/g5.png);
+}
+.gro5 a:hover {
+	background-image: url(img/gg5.png);
+
+}
+
+
+.gro6 a {
+	height: 100px;
+	width: 139px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.gro6 a:link {
+	background-image: url(img/g6.png);
+}
+.gro6 a:hover {
+	background-image: url(img/gg6.png);
+
+}
+
+
+
+
+#wrapper {
+	background-color: #fff;
+	height: 630px;
+	width: 960px;
+	margin-top: 12px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+
+}
+
+.pankuz {
+	height: 24px;
+	width: 960px;
+
+
+
+
+}
+
+
+
+#header {
+	height: 100px;
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+.footer {
+	height: 100px;
+	width: 960px;
+	margin: 0 auto;
+}
+
+ul.footer {
+	height: 100px;
+	width: 600px;
+	margin: 0 auto;
+	list-style-type: none;
+
+}
+
+ul.footer li{
+	font-size: 14px;
+	float: left;
+	margin-right: 5px;
+	margin-top: 5px;
+	padding: 2px;
+
+}
+
+.lace {
+	float: left;
+	height: 24px;
+	margin-right: 0px;
+	margin-left: 0px;
+
+}
+
+.nav1 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav1 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav1 a:link {
+	background-image: url(img/icon_01.png);
+}
+.nav1 a:hover {
+	background-image: url(img/icon_0101.png);
+
+}
+
+.nav2 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav2 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav2 a:link {
+	background-image: url(img/icon_02.png);
+}
+.nav2 a:hover {
+	background-image: url(img/icon_0201.png);
+
+}
+
+.nav3 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav3 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav3 a:link {
+	background-image: url(img/icon_03.png);
+}
+.nav3 a:hover {
+	background-image: url(img/icon_0301.png);
+
+}
+
+.nav4 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav4 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav4 a:link {
+	background-image: url(img/icon_04.png);
+}
+.nav4 a:hover {
+	background-image: url(img/icon_0401.png);
+
+}
+
+.nav5 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav5 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+
+.nav5 a:link {
+	background-image: url(img/icon_0501.png);
+}
+.nav5 a:hover {
+	background-image: url(img/icon_0501.png);
+
+}
+
+.nav6 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav6 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav6 a:link {
+	background-image: url(img/icon_06.png);
+}
+.nav6 a:hover {
+	background-image: url(img/icon_0601.png);
+
+}
+
+.nav7 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav7 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav7 a:link {
+	background-image: url(img/icon_07.png);
+}
+.nav7 a:hover {
+	background-image: url(img/icon_0701.png);
+
+}
+
+.nav8 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav8 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav8 a:link {
+	background-image: url(img/icon_08.png);
+}
+.nav8 a:hover {
+	background-image: url(img/icon_0801.png);
+
+}
+
+.nav9 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav9 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav9 a:link {
+	background-image: url(img/icon_09.png);
+}
+.nav9 a:hover {
+	background-image: url(img/icon_0901.png);
+
+}
+
+.nav10 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav10 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav10 a:link {
+	background-image: url(img/icon_010.png);
+}
+.nav10 a:hover {
+	background-image: url(img/icon_1001.png);
+
+}
+
+.nav11 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav11 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav11 a:link {
+	background-image: url(img/icon_011.png);
+}
+.nav11 a:hover {
+	background-image: url(img/icon_1101.png);
+
+}
+
+.nav12 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav12 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav12 a:link {
+	background-image: url(img/icon_012.png);
+}
+.nav12 a:hover {
+	background-image: url(img/icon_1201.png);
+
+}
+
+.nav13 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav13 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav13 a:link {
+	background-image: url(img/icon_013.png);
+}
+.nav13 a:hover {
+	background-image: url(img/icon_1301.png);
+
+}
+
+.nav14 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav14 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav14 a:link {
+	background-image: url(img/icon_014.png);
+}
+.nav14 a:hover {
+	background-image: url(img/icon_1401.png);
+
+}
+
+.nav15 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav15 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav15 a:link {
+	background-image: url(img/icon_015.png);
+}
+.nav15 a:hover {
+	background-image: url(img/icon_1501.png);
+
+}
+
+.nav16 {
+	float: left;
+	height: 75px;
+	width: 98px;
+	border-top : 1px solid #000;
+	border-left : 1px solid #000;
+}
+
+.nav16 a {
+	height: 75px;
+	width: 98px;
+	display: block;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+.nav16 a:link {
+	background-image: url(img/icon_016.png);
+}
+.nav16 a:hover {
+	background-image: url(img/icon_1601.png);
+
+}
+
+
+
+#nav {
+	float: left;
+	height: 609px;
+	width: 199px;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+
+}
+.main {
+	float: left;
+	width: 759px;
+	height: 549px;
+
+	
+}
+.gallary1 {
+	float: left;
+	width: 760px;
+	height: 320px;
+
+}
+.g-header {
+	float: left;
+	width: 759px;
+	height: 59px;
+
+}
+.g-cont1 {
+	float: left;
+	width: 240px;
+	height: 320px;
+
+}
+.g-text1 {
+	float: left;
+	width: 500px;
+	height: 160px;
+}
+
+.p1 {
+	float: left;
+	font-size: 16px;
+	width: 400px;
+	height: 140px;
+
+}
+
+.p2 {
+	float: left;
+	font-size: 14px;
+	width: 300px;
+	height: 140px;
+	padding-top: 10px;
+
+}
+
+
+.g-cart1 {
+	float: left;
+	width: 100px;
+	height: 100px;
+	font-size: 12px;
+
+
+}
+
+.g-other1 {
+	float: left;
+	margin-top: 22px;
+	width: 104px;
+	height: 138px;
+}
+.g-other2 {
+	float: left;
+	margin-top: 22px;
+	width: 104px;
+	height: 138px;
+}
+.g-other3 {
+	float: left;
+	margin-top: 22px;
+	width: 104px;
+	height: 138px;
+}
+.g-other4 {
+	float: left;
+	margin-top: 22px;
+	width: 104px;
+	height: 138px;
+}
+.g-other5 {
+	float: left;
+	margin-top: 22px;
+	width: 104px;
+	height: 138px;
+}
+

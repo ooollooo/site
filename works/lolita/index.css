@@ -1,0 +1,250 @@
+* {
+	margin: 0 ;
+	padding: 0 ;
+
+}
+
+#wrapper-t {
+	height: 734px;
+	width: 960px;
+	margin-top: 12px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+
+
+}
+#header {
+	height: 50px;
+	width: 480px;
+	margin: 0 auto;
+
+
+}
+.logo {
+	float: left;
+	height: 50px;
+	width: 120px;
+}
+
+.nav {
+	float: left;
+	height: 50px;
+	width: 72px;
+}
+
+#cont {
+	height: 800px;
+	width: 800px;
+	margin: 0 auto;
+
+}
+
+
+.window {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 80px;
+	left: 10px;
+
+}
+
+.window2 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 80px;
+	left: 120px;
+}
+
+.window3 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 80px;
+	left: 240px;
+
+}
+.window4 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 80px;
+	left: 360px;
+
+}
+.window5 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 264px;
+	left: 10px;
+
+}
+
+.window6 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 264px;
+	left: 120px;
+}
+
+.window7 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 264px;
+	left: 240px;
+
+}
+.window8 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 264px;
+	left: 360px;
+
+}
+
+.window9 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 448px;
+	left: 10px;
+
+}
+
+.window10 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 448px;
+	left: 120px;
+}
+
+.window11 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 448px;
+	left: 240px;
+
+}
+.window12 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 448px;
+	left: 360px;
+
+}
+
+.window13 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 632px;
+	left: 10px;
+
+}
+
+.window14 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 632px;
+	left: 120px;
+}
+
+.window15 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 632px;
+	left: 240px;
+
+}
+.window16 {
+	float: left;
+	height: 160px;
+	width: 120px;
+	z-index: 2;
+	position: absolute;
+	top: 632px;
+	left: 360px;
+
+}
+
+
+.slideArea{
+	float: left;
+	height: 320px;
+	width: 240px;
+}
+
+
+
+
+.slider div{
+}
+
+#box1 {
+	height:104px;
+	width:80px;
+	float: left;
+	z-index: 1;
+	position: absolute;
+
+}
+
+
+
+/*----- PAGGER -----*/
+.sr-pager{
+	position: absolute;
+	width: 100%;
+	bottom: 0px;
+	list-style:none;
+}
+.sr-pager li{
+	float: left;
+}
+
+.sr-pager li a{
+	cursor: pointer;
+	display: block;
+	padding: 2px; 
+}

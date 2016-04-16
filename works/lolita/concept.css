@@ -1,0 +1,83 @@
+﻿.s-header {
+	float: left;
+	width: 959px;
+	height: 59px;
+
+
+}
+
+.s-main {
+	float: left;
+	width: 960px;
+	height: 548px;
+	
+}
+
+.nav-s1 {
+	float: left;
+	height: 75px;
+	width: 200px;
+	border-top : 1px dotted #000;
+	border-left : 1px dotted #000;
+	background-color:  #000;
+}
+
+.shop1 {
+	float: left;
+	width: 960px;
+	height: 450px;
+	background-image: url(c-img/c1.jpg);
+
+}
+.shop2 {
+	float: left;
+	width: 960px;
+	height: 450px;
+	background-image: url(c-img/c2.jpg);
+
+}
+.shop3 {
+	float: left;
+	width: 960px;
+	height: 450px;
+	background-image: url(c-img/c3.jpg);
+
+}
+.shop4 {
+	float: left;
+	width: 960px;
+	height: 450px;
+	background-image: url(c-img/c4.jpg);
+
+}
+
+.shop5 {
+	float: left;
+	width: 960px;
+	height: 450px;
+	background-image: url(c-img/c5.jpg);
+
+}
+
+
+.shop6 {
+	float: left;
+	width: 960px;
+	height: 450px;
+	background-image: url(c-img/c6.jpg);
+
+}
+
+.shop1 p {
+	background-color: #FFF;
+	margin-top: 50px;
+	margin-left: 100px;
+	width: 300px;
+	filter: alpha(opacity=50);
+ 	 -moz-opacity:0.50;
+ 	 opacity:0.50;
+
+
+}
+
+
